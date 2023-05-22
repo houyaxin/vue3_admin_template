@@ -1,5 +1,7 @@
 <script setup lang="ts">
-var a =100;
+for (let index = 0; index < 10; index++) {
+  console.log('提交')
+}
 </script>
 
 <template>
