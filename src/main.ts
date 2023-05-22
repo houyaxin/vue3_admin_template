@@ -6,3 +6,4 @@ createApp(App).mount("#app");
 const fun = ()=>{
   console.log('提交没有格式化的代码');
 }
+fun()

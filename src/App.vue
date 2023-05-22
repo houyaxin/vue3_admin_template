@@ -1,4 +1,6 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+var a =100;
+</script>
 
 <template>
   <div>首页</div>
