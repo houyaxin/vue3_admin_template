@@ -1,14 +1,16 @@
 <script setup lang="ts">
 for (let index = 0; index < 10; index++) {
-  console.log('提交')
+  console.log("提交");
 }
+console.log("123");
 </script>
 
 <template>
   <div>首页</div>
+  <div>新增一个标题</div>
 </template>
 
-<style scoped lang="scss">
+<style scoped>
 .logo {
   height: 6em;
   padding: 1.5em;
